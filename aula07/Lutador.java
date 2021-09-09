@@ -9,7 +9,7 @@ public class Lutador {
 
     public void apresentar (){
         System.out.println("---------------------------------------------");
-        System.out.println("CHEGOU A HORA! APRENSENTAMOS O GRANDE LUTADOR "+ this.getNome());
+        System.out.println("CHEGOU A HORA! APRESENTAMOS O GRANDE LUTADOR "+ this.getNome());
         System.out.println("DIRETAMENTE DO: " + this.getNacionalidade());
         System.out.println("COM :" + this.getIdade() + " Anos E "+ this.getAltura()+ " DE ALTURA" );
         System.out.println("PESANDO " + this.getPeso() + "KG");
